@@ -10,7 +10,7 @@ Step 1 : Open the Google Colab Link. (https://colab.research.google.com/drive/1H
 
 Step 2 : Come Back here once your Colab Quest is completed.
 
-Step 3 : We have an Anonymous Feedback Form. Fill it up for us to chalk out our final report. Here's the Link (https://forms.gle/vry15dkJ8fFbPPdz6).
+Step 3 : We have an Anonymous Feedback Form. Fill it up for us to chalk out our final report.
 
 To Benefit Everyone, We are herewith attaching the Presentation as well.
 
