@@ -17,7 +17,3 @@ Step 1 : Open the Google Colab Link. (https://colab.research.google.com/drive/1H
 Step 2 : We have an Anonymous Feedback Form. Fill it up for us at the end of the quest and Remember to upload your Radiology Report Form as well to help us chalk out our final report.
 
 Step 3 : Look Back in the Slides for the Final Magical Words. Enjoy!
-
-To Benefit Everyone, We will herewith attaching the Presentation as well.
-
-Hope you all have had a Great Learning Experience. Thank you so much!
